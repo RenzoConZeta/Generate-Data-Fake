@@ -1,6 +1,6 @@
 # Generate data fake with:
-- [Json-server.](URL "https://github.com/typicode/json-server")
-- [Lodash.](URL "https://lodash.com/")
-- [Faker.](URL "https://github.com/marak/Faker.js/")
+- [Json-server.](URL "github.com/typicode/json-server")
+- [Lodash.](URL "lodash.com/")
+- [Faker.](URL "github.com/marak/Faker.js/")
 
 
